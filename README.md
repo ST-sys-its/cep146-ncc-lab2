@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
-- Name: (Alexander)
-- Program: (Filer Viewer)
-- Year: (CPP year 1, semester 1)
-- Favorite Programming Language: (Java)
+- Name: Alexander
+- Program: Filer Viewer
+- Year: CPP year 1, semester 1
+- Favorite Programming Language: Java
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub

@@ -15,6 +15,7 @@
   ## Class Schedule
 
   | Time | Class |  Day |
+  |------|-------|------|
   |   11:40   |   OPS102NCC  |   Monday   |
   |  2:25     |   MTH140NCC  |   Monday   |
   |  11:40    |   IPC144NCC  |   Friday   |

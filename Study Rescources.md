@@ -11,6 +11,8 @@
 
 - Google
 - Eclispe IDE
+- notepad
+- google docs 
 
   ## Class Schedule
 
